@@ -1,6 +1,6 @@
 ![Copy of Deploy-MDATP-for-Linux-using-Ansible](https://github.com/ravindraS93/ExcelwithPython/assets/93694572/623b41fc-9963-4451-a9f9-192730701b70)
 
-Before we proceed, I'd like to clarify a few points:
+**Before we proceed, I'd like to clarify a few points:**
 
 1. The data used for demonstration purposes is dummy data created solely for reference. It bears no relation to any actual corporate environments.
 2. I'm not an expert in Excel or Python, but I do have some basic knowledge of both from my day-to-day experience.
@@ -37,4 +37,9 @@ This initial version of the script aims to accomplish several basic Excel tasks:
 
 I suggest reviewing the comments within the script to gain a clear understanding of what each line of code accomplishes. This will provide insights into the logic and functionality of the script, enhancing comprehension and facilitating any necessary modifications or enhancements.
 
+**How to use the script?**
 
+1. Ensure all files are placed in a folder.
+2. Verify that Python is installed on your machine.
+3. Load the "Excel Report v1.0.py" file in IDLE (Python) and press F5 to execute the script.
+4. While the script serves to illustrate how to automate Excel tasks using Python, it must be modified to suit your specific datasets.
